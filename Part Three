@@ -1,0 +1,23 @@
+<html>
+<head>
+	<title>
+		Sum of numbers
+	</title>
+</head>
+<body> 
+	<p>The sum of the numbers from 1 to 100 is</p>
+<script>
+	const start=1;
+	const end=100;
+	var sum=0;
+
+	for(var a=start;a<=end;a++){
+    sum=sum+a;
+	}
+	document.write(sum);
+ 	
+
+</script>
+
+</body>
+</html>
