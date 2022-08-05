@@ -12,8 +12,10 @@
 <body background="background.jpeg" onLoad='a()'>
 <p id="rabbit">Rabbits, also known as bunnies or bunny rabbits, are small mammals in the family Leporidae (which also contains the hares) of the order Lagomorpha (which also contains the pikas). Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds[1] of domestic rabbit. Sylvilagus includes 13 wild rabbit species, among them the seven types of cottontail. The European rabbit, which has been introduced on every continent except Antarctica, is familiar throughout the world as a wild prey animal and as a domesticated form of livestock and pet. With its widespread effect on ecologies and cultures, the rabbit is, in many areas of the world, a part of daily life—as food, clothing, a companion, and a source of artistic inspiration.</p>
 <p id="rabbit1">A male rabbit is called a buck; a female is called a doe. An older term for an adult rabbit used until the 18th century is coney (derived ultimately from the Latin cuniculus), while rabbit once referred only to the young animals.[2] Another term for a young rabbit is bunny, though this term is often applied informally (particularly by children) to rabbits generally, especially domestic ones. More recently, the term kit or kitten has been used to refer to a young rabbit.</p>
+<p id = "rabbit2">Although once considered rodents, lagomorphs like rabbits have been discovered to have diverged separately and earlier than their rodent cousins and have a number of traits rodents lack, like two extra incisors. 
+</p>
 <table>
-	<tr>Although once considered rodents, lagomorphs like rabbits have been discovered to have diverged separately and earlier than their rodent cousins and have a number of traits rodents lack, like two extra incisors. 
+	<tr><h1>Images of Rabbits</h1> 
 		<th><img src="rabit1.jpeg" />
 			</th>
 			<th><img src="rbt.jpeg" />
@@ -21,6 +23,19 @@
 		</tr>
 	</table>
 
+    <table>
+        <tr><h1>Where can we find Rabbits</h1> 
+            <th>* In the forest</th>
+                <tr> 
+                    <th>* In the Farms</th>
+                </tr>
+                </th>
+                <tr> 
+                    <th><img src="rabbitImg.webp" />
+                    </th>
+                </tr>
+            </tr>
+        </table>
 
 </body>
 </html>
